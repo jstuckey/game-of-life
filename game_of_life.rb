@@ -1,8 +1,5 @@
 require_relative "board.rb"
 
-#Board.new(5, 5).play(5)
-#
-
 blinker = [
   [0, 0, 0, 0, 0],
   [0, 0, 1, 0, 0],
